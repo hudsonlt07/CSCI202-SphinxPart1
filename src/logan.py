@@ -1,7 +1,7 @@
 """
 logan.py
 ====================================
-This is an example file with correct docstring examples
+Says hello to a name and prints length of string.
 
 | Author: Logan Hudson
 | Date: 2026 April 27
